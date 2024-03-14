@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="HGV.Basilius" Version="7.31.4.1" />
+    <PackageReference Include="HGV.Basilius" Version="7.35.3" />
   </ItemGroup>
 
 </Project>
